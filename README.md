@@ -59,15 +59,3 @@
 </div>  
 
 <br/>  
-
-
-## You have to listen...  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=damis2010&cover_image=true&theme=novatorem&bar_color=b141c8&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DamaBeth&&style=flat-square" align="center" />
-</div>  
-
-<br />
