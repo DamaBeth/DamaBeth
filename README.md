@@ -6,7 +6,7 @@
 
 -  🌸 I’m currently working as Front-End Developer  
 
-- 🕵️‍♀️ I’m currently learning Astro, Python, and a little bit about Golang and Kubernetes
+- 🕵️‍♀️ I’m currently learning Astro and a little bit about Kubernetes
   
 - ✨ My hobbies are **read books and roller skating**
 
