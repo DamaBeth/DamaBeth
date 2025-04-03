@@ -7,7 +7,6 @@
 -  🌸 I’m currently working as Front-End Developer  
 
 - 🕵️‍♀️ I’m currently learning Astro, Vite and TanStack Query
-- ✨ My hobbies include **read books and roller skating**
 
 <br/>  
 
